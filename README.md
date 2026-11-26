@@ -1,8 +1,8 @@
 # **Tic Tac Toe Game - C++ Ncurses Implementation**
 
-**Tugas Akhir / Final Project Pemrograman C++**
+***Tugas Akhir / Final Project Pemrograman C++***
 
-**Game Tic Tac Toe berbasis konsol menggunakan bahasa C++ dan library Ncurses. Permainan ini mendukung dua pemain lokal dengan kontrol keyboard, tampilan papan interaktif, serta sistem penyimpanan skor.**
+***Game Tic Tac Toe berbasis konsol menggunakan bahasa C++ dan library Ncurses. Permainan ini mendukung dua pemain lokal dengan kontrol keyboard, tampilan papan interaktif, serta sistem penyimpanan skor.***
 
 ### 📋 Daftar Isi
 
