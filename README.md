@@ -6,14 +6,14 @@
 
 ### **📋 Daftar Isi**
 
-1. "Latar Belakang & Studi Kasus" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-latar-belakang--studi-kasus)
-2. "Fitur Utama" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-fitur-utama)
-3. "Struktur Kode & Arsitektur" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-struktur-kode--arsitektur)
-4. "Prasyarat & Instalasi" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-prasyarat--instalasi)
-5. "Cara Kompilasi" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-cara-kompilasi)
-6. "Kontrol Permainan" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-kontrol-permainan)
-7. "File Eksternal" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#-file-eksternal)
-8. "Credits" (https://github.com/SherlineTing/tictactoe/blob/main/README.md#%E2%80%8D-credits)
+1. [Latar Belakang & Studi Kasus](#[latar-belakang--studi-kasus](https://github.com/SherlineTing/tictactoe/blob/main/README.md#-latar-belakang--studi-kasus))
+2. [Fitur Utama](#fitur-utama)
+3. [Struktur Kode & Arsitektur](#struktur-kode--arsitektur)
+4. [Prasyarat & Instalasi](#prasyarat--instalasi)
+5. [Cara Kompilasi](#cara-kompilasi)
+6. [Kontrol Permainan](#kontrol-permainan)
+7. [File Eksternal](#file-eksternal)
+8. [Credits](#credits)
 
 ### **📖 Latar Belakang & Studi Kasus**
 
