@@ -6,7 +6,7 @@
 
 ### **📋 Daftar Isi**
 
-1. [Latar Belakang & Studi Kasus](#[latar-belakang--studi-kasus](https://github.com/SherlineTing/tictactoe/blob/main/README.md#-latar-belakang--studi-kasus))
+1. [Latar Belakang & Studi Kasus](#https://github.com/SherlineTing/tictactoe/blob/main/README.md#-latar-belakang--studi-kasus))
 2. [Fitur Utama](#fitur-utama)
 3. [Struktur Kode & Arsitektur](#struktur-kode--arsitektur)
 4. [Prasyarat & Instalasi](#prasyarat--instalasi)
